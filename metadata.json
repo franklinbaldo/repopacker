@@ -1,0 +1,5 @@
+{
+  "name": "RepoPacker",
+  "description": "A developer tool that packs local code repositories or GitHub repos into a single, LLM-optimized text prompt. Features file tree visualization, token estimation, and smart ignore patterns.",
+  "requestFramePermissions": []
+}
