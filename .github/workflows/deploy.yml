@@ -19,6 +19,8 @@ jobs:
         run: |
           npm install
           npm run build
+          touch dist/.nojekyll
+          cp dist/index.html dist/404.html
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
