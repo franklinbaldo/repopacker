@@ -1,6 +1,7 @@
 {
   "name": "repopacker",
   "private": true,
+  "homepage": "https://franklinbaldo.github.io/repopacker",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
